@@ -13,10 +13,11 @@ All DERO news and updates be will recorded here.
 
 | DATE| TYPE|DESCRIPTION| FULL READ|DISCUSSION | 
 |-----|-----|-------|----------|---------------|
-| 6-DEC-2017| Launched| DERO Launched with Monero(XMR) Code|[ C Source Archived] | Archived|
-|4-JUL-2018|Release| DERO Atlantis: CryptoNote in Golang|[1. Atlantis Source](https://github.com/deroproject/derosuite) [2. More](https://forum.dero.io/t/dero-monthly-update/446)|[Discuss](https://github.com/deroproject/derosuite/issues)| 
+| 06-DEC-2017| Launched| DERO Launched with Monero(XMR) Code|[ C Source Archived] | Archived|
+|04-JUL-2018|Release| DERO Atlantis: CryptoNote in Golang|[1. Atlantis Source](https://github.com/deroproject/derosuite) [2. More](https://forum.dero.io/t/dero-monthly-update/446)|[Discuss](https://github.com/deroproject/derosuite/issues)| 
+|06-JUL-2018|ANN |DERO is immune to double-counting bug which affects  other CryptoNote Blockchains. |[Source](https://ethereumworldnews.com/monero-glitch-allowed-hackers-to-steal-xmr-from-exchanges/) | |
 |02-NOV-2018| Release| DERO Webwallet Released|[Source](https://git.dero.io/DeroProject/derosuite_webwallet) | [Build HowTo](https://forum.dero.io/t/how-to-setup-dero-web-wallet/859)|
-|1-APR-2019| Release| Stargate: Smart Contracts and DVM testnet|[1. Details](https://github.com/deroproject/documentation/blob/master/testnet/stargate.md) [2.Source](https://git.dero.io/DeroProject/derosuite_stargate)  |[DVM Discuss](https://github.com/deroproject/DIPS/issues/1) |
+|01-APR-2019| Release| Stargate: Smart Contracts and DVM testnet|[1. Details](https://github.com/deroproject/documentation/blob/master/testnet/stargate.md) [2.Source](https://git.dero.io/DeroProject/derosuite_stargate)  |[DVM Discuss](https://github.com/deroproject/DIPS/issues/1) |
 |Note-1 | | | 
 |15-OCT-2019| Release| RandomX implementation in Golang by DERO Devs| [RandomX Golang Source](https://git.dero.io/DERO_Foundation/RandomX) | [Discuss](https://git.dero.io/DERO_Foundation/RandomX)|
 |20-JAN-2020| Release| ASIC/FPGA/GPU resistant CPU mining algorithm. | [AstroBWT Source](https://github.com/deroproject/astrobwt)|[Discuss](https://github.com/deroproject/astrobwt)|
