@@ -4,8 +4,8 @@
 All DERO news and updates be will recorded here. 
 
 #### ABOUT DERO PROJECT
-&nbsp; &nbsp; &nbsp; &nbsp; [DERO](https://github.com/deroproject/derosuite) is decentralized DAG(Directed Acyclic Graph) based blockchain with enhanced reliability, privacy, security, and usability. Consensus algorithm is PoW based on [DERO AstroBWT: ASIC/FPGA/GPU resistant CPU mining algorithm ](https://github.com/deroproject/astrobwt). DERO is industry leading and the first blockchain to have bulletproofs, TLS encrypted Network.  
-&nbsp; &nbsp; &nbsp; &nbsp; DERO is the first crypto project to combine a Proof of Work blockchain with a DAG block structure and wholly anonymous transactions based on [CryptoNote Protocol](https://github.com/deroproject/documentation/blob/master/CryptoNote-WP.pdf). The fully distributed ledger processes transactions with a twenty-seven average block time and is secure against majority hashrate attacks. DERO will be the first fully private blockchain to have smart contracts on its native chain without any extra layers or secondary blockchains. At present DERO have Smart Contracts on [testnet](https://github.com/deroproject/documentation/blob/master/testnet/stargate.md) using CryptoNote Protocol.  
+&nbsp; &nbsp; &nbsp; &nbsp; [DERO](https://github.com/deroproject/derosuite) is decentralized DAG(Directed Acyclic Graph) based blockchain with enhanced reliability, privacy, security, and usability. Consensus algorithm is PoW based on [DERO AstroBWT: ASIC/FPGA/GPU resistant CPU mining algorithm ](https://github.com/deroproject/astrobwt). DERO is industry leading and the first blockchain to have [DERO Rocket bulletproofs](https://github.com/deroproject/derosuite#dero-rocket-bulletproofs), TLS encrypted Network.  
+&nbsp; &nbsp; &nbsp; &nbsp; DERO is the first crypto project to combine a Proof of Work blockchain with a DAG block structure and wholly anonymous transactions based on [CryptoNote Protocol](https://github.com/deroproject/documentation/blob/master/CryptoNote-WP.pdf). The fully distributed ledger processes transactions with a twenty-seven seconds average block time and is secure against majority hashrate attacks. DERO will be the first fully private blockchain to have smart contracts on its native chain without any extra layers or secondary blockchains. At present DERO have Smart Contracts on [testnet](https://github.com/deroproject/documentation/blob/master/testnet/stargate.md) using CryptoNote Protocol.  
 
 #### NB: In coming times DERO with full respect will migrate from CryptoNote Protocol to new [DHEBP Protocol based on Homomorphic Encryption](https://git.dero.io/Captain/DHEBP).
 
@@ -22,7 +22,7 @@ All DERO news and updates be will recorded here.
 |20-JAN-2020| Release| ASIC/FPGA/GPU resistant CPU mining algorithm. | [AstroBWT Source](https://github.com/deroproject/astrobwt)|[Discuss](https://github.com/deroproject/astrobwt)|
 |06-MAR-2020| ANN| AstroBWT HardFork Block #4550555 |[AstroBWT HardFork](https://medium.com/deroproject/dero-monthly-update-4f133012baa0)| |
 |Note-2 | | | 
-|08-JUL-2020|Release|DERO Homomorphic Encryption Blockchain Protocol|[DHEBP Source](https://git.dero.io/Captain/DHEBP)|[Discuss](https://github.com/deroproject/deronews/issues/1)|
+|08-JUL-2020|Release|DERO Homomorphic Encryption Blockchain Protocol|[1. DHEBP Source](https://git.dero.io/Captain/DHEBP) [2. Features](https://github.com/deroproject/documentation/blob/master/DHEBP.md)|[Discuss](https://github.com/deroproject/deronews/issues/1)|
 |04-SEP-2020| Release| Graviton Database: ZFS for key-value stores| [Graviton Source](https://github.com/deroproject/graviton)|[Discuss](https://github.com/deroproject/graviton) |
 | 18-NOV-2020| Updates| DHEBP Updates & Screenshots|[Details](https://forum.dero.io/t/dero-homomorphic-encryption-blockchain-protocol-updates/1270)| [Discuss](https://forum.dero.io/t/dero-homomorphic-encryption-blockchain-protocol-updates/1270) |  
 
