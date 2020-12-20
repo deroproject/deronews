@@ -26,6 +26,7 @@ All DERO news and updates be will recorded here.
 |08-JUL-2020|Release|DERO Homomorphic Encryption Blockchain Protocol|[1. DHEBP Source](https://git.dero.io/Captain/DHEBP) [2. Features](https://github.com/deroproject/documentation/blob/master/DHEBP.md)|[Discuss](https://github.com/deroproject/deronews/issues/1)|
 |04-SEP-2020| Release| Graviton Database: ZFS for key-value stores| [Graviton Source](https://github.com/deroproject/graviton)|[Discuss](https://github.com/deroproject/graviton) |
 | 18-NOV-2020| Updates| DHEBP Updates & Screenshots|[Details](https://forum.dero.io/t/dero-homomorphic-encryption-blockchain-protocol-updates/1270)| [Discuss](https://forum.dero.io/t/dero-homomorphic-encryption-blockchain-protocol-updates/1270) |  
+| 20-DEC-2020| Release| DERO Homomorphic Encryption Testnet Release|[Source](https://github.com/deroproject/derohe)| [Discuss](https://forum.dero.io/t/testnet-release-dhebp/1283) |  
 
 
 * Note-1 Realization of CryptoNote Protocol security and limitations in Smart Contracts. Started search for better protocol. 
