@@ -1,4 +1,4 @@
-[DERO News](https://github.com/deroproject/deronews) [Forum](https://forum.dero.io) [Wiki](https://wiki.dero.io) [Explorer](https://explorer.dero.io) [Source](https://github.com/deroproject/derosuite) [Twitter](https://twitter.com/DeroProject) [Discord](https://discord.gg/H95TJDp)  [Github](https://github.com/deroproject/derosuite) [Stats](http://network.dero.io) [WebWallet](https://wallet.dero.io/) [Medium](https://medium.com/deroproject)
+[DERO News](https://github.com/deroproject/deronews) [Forum](https://forum.dero.io) [Wiki](https://wiki.dero.io) [Explorer](https://explorer.dero.io) [Source](https://github.com/deroproject/derohe) [Twitter](https://twitter.com/DeroProject) [Discord](https://discord.gg/H95TJDp)  [Github](https://github.com/deroproject) [Stats](http://network.dero.io) [WebWallet](https://wallet.dero.io/) [Medium](https://medium.com/deroproject)
 
 # DERO NEWS 
 All DERO news and updates be will recorded here. 
@@ -27,6 +27,7 @@ All DERO news and updates be will recorded here.
 |04-SEP-2020| Release| Graviton Database: ZFS for key-value stores| [Graviton Source](https://github.com/deroproject/graviton)|[Discuss](https://github.com/deroproject/graviton) |
 | 18-NOV-2020| Updates| DHEBP Updates & Screenshots|[Details](https://forum.dero.io/t/dero-homomorphic-encryption-blockchain-protocol-updates/1270)| [Discuss](https://forum.dero.io/t/dero-homomorphic-encryption-blockchain-protocol-updates/1270) |  
 | 20-DEC-2020| Release| DERO Homomorphic Encryption Testnet Release|[Source](https://github.com/deroproject/derohe)| [Discuss](https://forum.dero.io/t/testnet-release-dhebp/1283) |  
+| 26-FEB-2022| Release| DERO Homomorphic Encryption Mainnet Release|[Source](https://github.com/deroproject/derohe)| [Discuss](https://github.com/deroproject/derohe) |  
 
 
 * Note-1 Realization of CryptoNote Protocol security and limitations in Smart Contracts. Started search for better protocol. 
